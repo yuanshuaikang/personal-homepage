@@ -1,0 +1,13 @@
+<svg width="520" height="640" viewBox="0 0 520 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="640" fill="#dbe8f8"/>
+  <rect y="384" width="520" height="256" fill="#172033"/>
+  <circle cx="260" cy="215" r="112" fill="#f2c7b6"/>
+  <path d="M130 244c10-100 48-162 130-162s120 62 130 162c-55 28-94 31-130 20-36 11-75 8-130-20z" fill="#111827"/>
+  <path d="M134 640c9-111 58-172 126-172s117 61 126 172H134z" fill="#f7f7f0"/>
+  <path d="M172 640c12-89 45-136 88-136s76 47 88 136H172z" fill="#b41f31"/>
+  <path d="M115 640c15-132 69-199 145-199s130 67 145 199H115z" stroke="#ffffff" stroke-width="16"/>
+  <path d="M193 338c35 34 99 34 134 0" stroke="#9b5b50" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="218" cy="220" r="10" fill="#172033"/>
+  <circle cx="302" cy="220" r="10" fill="#172033"/>
+  <text x="260" y="594" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">PHOTO</text>
+</svg>
